@@ -7,8 +7,6 @@ const Navbar = () => {
         <div className="text-2xl font-bold">KAKA</div>
         <nav>
           <ul className="flex space-x-6">
-            <li><a href="#" className="font-bold text-black">For Woman</a></li>
-            <li><a href="#" className="font-bold text-black">For Man</a></li>
             <li><a href="#" className="font-bold text-black">Location</a></li>
           </ul>
         </nav>
