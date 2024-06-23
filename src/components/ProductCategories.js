@@ -35,3 +35,27 @@ const ProductCategories = () => {
 };
 
 export default ProductCategories;
+
+// const ProductCategories = () => {
+//   return (
+//     <section className="text-center py-8">
+//       <h2 className="text-2xl font-bold mb-8">PRODUCT CATEGORIES</h2>
+//       <div className="flex flex-wrap justify-center gap-8">
+//         <div className="text-center">
+//           <img src={shirt} alt="shirt" className="w-24 h-24 md:w-32 md:h-32 object-cover mx-auto" />
+//           <p className="mt-4">shirt</p>
+//         </div>
+//         <div className="text-center">
+//           <img src={bag} alt="bag" className="w-24 h-24 md:w-32 md:h-32 object-cover mx-auto" />
+//           <p className="mt-4">Bag</p>
+//         </div>
+//         <div className="text-center">
+//           <img src={outer} alt="outer" className="w-24 h-24 md:w-32 md:h-32 object-cover mx-auto" />
+//           <p className="mt-4">Outer</p>
+//         </div>
+//       </div>
+//     </section>
+//   );
+// };
+
+// export default ProductCategories;
