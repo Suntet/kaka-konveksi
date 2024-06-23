@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kaka-konveksi/static/css/main.f468442e.css",
-    "main.js": "/kaka-konveksi/static/js/main.97f39a32.js",
+    "main.css": "/kaka-konveksi/static/css/main.d93443cb.css",
+    "main.js": "/kaka-konveksi/static/js/main.a3fa6182.js",
     "static/js/453.8f264213.chunk.js": "/kaka-konveksi/static/js/453.8f264213.chunk.js",
     "static/media/outer.jpeg": "/kaka-konveksi/static/media/outer.5b4efc543199166daff7.jpeg",
     "static/media/shirt.jpeg": "/kaka-konveksi/static/media/shirt.b7066711cdfc05c88cb8.jpeg",
     "static/media/bag.jpeg": "/kaka-konveksi/static/media/bag.c7593c2e2c5282c5a4d9.jpeg",
     "index.html": "/kaka-konveksi/index.html",
-    "main.f468442e.css.map": "/kaka-konveksi/static/css/main.f468442e.css.map",
-    "main.97f39a32.js.map": "/kaka-konveksi/static/js/main.97f39a32.js.map",
+    "main.d93443cb.css.map": "/kaka-konveksi/static/css/main.d93443cb.css.map",
+    "main.a3fa6182.js.map": "/kaka-konveksi/static/js/main.a3fa6182.js.map",
     "453.8f264213.chunk.js.map": "/kaka-konveksi/static/js/453.8f264213.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f468442e.css",
-    "static/js/main.97f39a32.js"
+    "static/css/main.d93443cb.css",
+    "static/js/main.a3fa6182.js"
   ]
 }
